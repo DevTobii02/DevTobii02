@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DevTobii02
-- 👀 I’m interested in Backend Development
+- 👋 Hi, I’m @DevTobii
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Django Framework
 - 💞️ I’m looking to collaborate on backend projects on python
 - 📫 You can reach me by sending an email to tobiithedev@gmail.com 
