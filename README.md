@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevTobii02
+- 👋 Hi, I’m Adebayo Abdullahi 
 - 👀 I’m interested in Backend Web Development 
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on backend projects on python
