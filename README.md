@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Adebayo Abdullahi 
-- 👀 I’m interested in Backend Web Development 
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on backend projects on python
-- 📫 You can reach me by sending an email to tobiithedev@gmail.com.
-
-<!---
-DevTobii02/DevTobii02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Adebayo Abdullahi 
+Currently Learning : Database Administration and Backend Development 
+I am on a journey to understand how data is stored managed and secured while also learning to build stong backend systems that support real world applications                                                                                                                                             
+Currently Learning : 
+Backend Development with python and PHP                                                                                                                 Fundamentals Of Relational Databases (mySQL, SQL SERVER)                                                                                                Version Control With Git and Github                                                                                                                      
+Practising with the following tools:                                                                                                                    Languages : Python, PHP, SQL                                                                                                                            Tools : Git, Github                                                                                                                                     Databases : MySQL sqlite3                                                                                                                                                                                                                                                                                      
+My Practise Projects:                                                                                                                                    Student Management System : Tkinter window application built with python and sqlite3                                                                    
+My Goals Are The Following:                                                                                                                              Get comfortable with database design & administrations                                                                                                  Improve My Problem solving with real backend projects                                                                                                   Grow Into A Database Administrator & Backend Developer role                                                                                             
+Connect with me:                                                                                                                                         email:tobiithedev@gmail.com
